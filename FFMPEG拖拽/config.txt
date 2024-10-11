@@ -1,0 +1,2 @@
+f="F:\ProgramData\ffmpeg\ffmpeg.exe"
+as="C:\Users\leejo\AppData\Roaming\Python\Python312\Scripts\auto_subtitle.exe"
