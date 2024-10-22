@@ -6,3 +6,4 @@
 这些都得您自己改成自己电脑里的<p>
 同时字幕生成参考这里 https://iheld.net/post-256.html <p>
 在`config.txt`中设置`ffmpeg`和`auto-subtitle`的路径
+添加了[tesseract-ocrt](https://github.com/UB-Mannheim/tesseract)
