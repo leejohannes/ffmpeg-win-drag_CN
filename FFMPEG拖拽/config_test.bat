@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-for /f "delims=" %%i in ('type "%~dp0config.txt"^| find /i "="') do set %%i
+for /f "delims=" %%i in ('type "%~dp0config.txt"^| findstr "="') do set %%i
 echo f=%f%
 echo as=%as%
 ::%temp%\..\..\roaming\python\python312\scripts\
